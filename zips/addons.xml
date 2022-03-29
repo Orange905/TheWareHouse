@@ -1,4 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
+<addon id="repository.thewarehouse"
+       name="  The WarHouse Repository"
+       version="22.3.28"
+       provider-name="Anubis">
+    <extension point="xbmc.addon.repository" name="The WareHouse Repository">
+        <dir minversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/zips/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://k.slyguy.xyz/.repo/addons.xml</info>
+            <checksum>https://k.slyguy.xyz/.repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://k.slyguy.xyz/.repo/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml</info>
+            <checksum>https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.github.com/Gujal00/GujalKodiWork/master/zips/</datadir>
+        </dir>
+        <dir minversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>The WareHouse Repository</summary>
+        <description>The WareHouse Repository</description>
+        <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+    </extension>
+</addon>
+
 </addons>
