@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
-
 <addon id="repository.thewarehouse"
        name="  The WarHouse Repository"
        version="22.4.1"
@@ -62,5 +60,3 @@
     </assets>
     </extension>
 </addon>
-
-</addons>
