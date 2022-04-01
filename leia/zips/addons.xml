@@ -3,7 +3,7 @@
 
 <addon id="repository.thewarehouse"
        name="The WarHouse Repository"
-       version="2022.04.01"
+       version="0.0.1"
        provider-name="Anubis">
     <extension point="xbmc.addon.repository" name="The WareHouse Repository">
         <dir minversion="18.9.0">
