@@ -3,7 +3,7 @@
 <layoutype>fuckOFF</layoutype>
 
 <item>
-<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE CHANNELS[/COLOR] [COLOR orchid] (DL)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<title>DL</title>
 <link>$doregex[makelist]</link>
     <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
     <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
@@ -39,7 +39,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE CHANNELS[/COLOR] [COLOR orchid] (TV247)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<title>TV24/7</title>
 <link>$doregex[makelist]</link>
     <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
     <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
@@ -73,7 +73,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]LIVE CHANNELS[/COLOR] [COLOR orchid] (USTVGO)[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
+<title>USTVGO</title>
 <link>$doregex[makelist]</link>
     <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
     <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
