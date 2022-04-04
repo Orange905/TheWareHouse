@@ -14,7 +14,7 @@
 def GetLSProData(page_data,Cookie_Jar,m,url = ''):
     import re
     from resources.lib.modules import control
-    if not control.infoLabel('Container.PluginName') == 'plugin.video.sphynx': return
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.le': return
     page_data = page_data.split('EPL Standings', 1)[-1]
     e = re.findall('item"><a href="([^"]*)(?:.*?g>)([^<]*)', page_data)
     sort = [('https://daddylive.fun'+i[0],i[1]) for i in e]
@@ -50,7 +50,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 def GetLSProData(page_data,Cookie_Jar,m,url = ''):
     from resources.lib.modules import control
     import re
-    if not control.infoLabel('Container.PluginName') == 'plugin.video.sphynx': return
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.le': return
     r = re.findall('(?s)sup">live(?:.*?c=)"([^"]*)(?:.*?f=)"([^"]*)">([^<]*)', page_data)
     return sorted(r,key=lambda sphynx: (sphynx[1]))
 ]]></expres>
@@ -84,7 +84,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 def GetLSProData(page_data,Cookie_Jar,m,url = ''):
     from resources.lib.modules import client,control
     import re
-    if not control.infoLabel('Container.PluginName') == 'plugin.video.sphynx': return
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.le': return
     u = ''
     u += client.request('https://ustvgo.tv/category/sports/')
     u += client.request('https://ustvgo.tv/category/entertainment/')
