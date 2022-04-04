@@ -1,8 +1,8 @@
 <item>
 <title>DL</title>
 <link>$doregex[makelist]</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+    <thumbnail>special://home/addons/plugin.video.hmm/iptv.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.hmm/fanart.png</fanart>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
@@ -14,7 +14,7 @@
 def GetLSProData(page_data,Cookie_Jar,m,url = ''):
     import re
     from resources.lib.modules import control
-    if not control.infoLabel('Container.PluginName') == 'plugin.video.le': return
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.hmm': return
     page_data = page_data.split('EPL Standings', 1)[-1]
     e = re.findall('item"><a href="([^"]*)(?:.*?g>)([^<]*)', page_data)
     sort = [('https://daddylive.fun'+i[0],i[1]) for i in e]
@@ -37,8 +37,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 <item>
 <title>TV24/7</title>
 <link>$doregex[makelist]</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+    <thumbnail>special://home/addons/plugin.video.hmm/iptv.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.hmm/fanart.png</fanart>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
@@ -50,7 +50,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 def GetLSProData(page_data,Cookie_Jar,m,url = ''):
     from resources.lib.modules import control
     import re
-    if not control.infoLabel('Container.PluginName') == 'plugin.video.le': return
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.hmm': return
     r = re.findall('(?s)sup">live(?:.*?c=)"([^"]*)(?:.*?f=)"([^"]*)">([^<]*)', page_data)
     return sorted(r,key=lambda sphynx: (sphynx[1]))
 ]]></expres>
@@ -71,8 +71,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 <item>
 <title>USTVGO</title>
 <link>$doregex[makelist]</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+    <thumbnail>special://home/addons/plugin.video.hmm/iptv.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.hmm/fanart.png</fanart>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
@@ -84,7 +84,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 def GetLSProData(page_data,Cookie_Jar,m,url = ''):
     from resources.lib.modules import client,control
     import re
-    if not control.infoLabel('Container.PluginName') == 'plugin.video.le': return
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.hmm': return
     u = ''
     u += client.request('https://ustvgo.tv/category/sports/')
     u += client.request('https://ustvgo.tv/category/entertainment/')
