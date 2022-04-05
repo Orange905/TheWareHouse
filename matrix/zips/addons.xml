@@ -159,19 +159,17 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.ustvgo" version="0.0.1" name="USTvGo" provider-name="Anubis">
+<addon id="plugin.video.usgotv" version="0.0.1" name="USGoTv" provider-name="Anubis">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.requests" version="2.25.1"/>
-  <import addon="script.module.beautifulsoup4" version="4.8.2"/>
-  <import addon="script.module.routing" version="0.2.0"/>
 </requires>
 <extension point="xbmc.python.pluginsource" library="addon.py">
   <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
-  <summary lang="en">USTvGo</summary>
-  <description lang="en_GB">USTvGo</description>
+  <summary lang="en">USGoTv</summary>
+  <description lang="en_GB">USGoTv</description>
   <disclaimer lang="en_GB">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content.</disclaimer>
   <assets>
 	<icon>icon.png</icon>
