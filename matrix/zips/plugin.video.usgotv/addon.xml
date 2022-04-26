@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.usgotv" version="0.0.1" name="USGoTv" provider-name="Anubis">
+<addon id="plugin.video.usgotv"
+       version="22.4.26"
+       provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.requests" version="2.25.1"/>

@@ -3,8 +3,8 @@
 
 <addon id="repository.thewarehouse"
        name="The WareHouse Repository"
-       version="0.0.1"
-       provider-name="Anubis">
+       version="22.4.26"
+       provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]">
     <extension point="xbmc.addon.repository" name="The WareHouse Repository">
         <dir minversion="18.9.0">
             <info compressed="false">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/matrix/zips/addons.xml</info>
@@ -16,56 +16,6 @@
             <checksum>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/leia/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/leia/zips/</datadir>
         </dir>
-        <dir minversion="18.9.0">
-            <info compressed="false">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/</datadir>
-        </dir>
-        <dir minversion="18.0" maxversion="18.9.0">
-            <info compressed="false">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/leia/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/leia/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/leia/zips/</datadir>
-        </dir>
-        <dir>
-            <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
-        </dir>
-        <dir>
-            <info compressed="false">https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml</info>
-            <checksum>https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.github.com/Gujal00/GujalKodiWork/master/zips/</datadir>
-        </dir>
-        <dir>
-            <info compressed="false">https://k.slyguy.xyz/.repo/addons.xml</info>
-            <checksum>https://k.slyguy.xyz/.repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://k.slyguy.xyz/.repo/</datadir>
-        </dir>
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/</datadir>
-		</dir>
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/</datadir>
-		</dir>
-		<dir minversion="18.9.0">
-			<info compressed="false">https://raw.githubusercontent.com/123Venom/repository.metahandler/main/matrix/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/123Venom/repository.metahandler/main/matrix/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/123Venom/repository.metahandler/main/matrix/zips/</datadir>
-		</dir>
-		<dir minversion="18.9.0">
-			<info compressed="false">https://Rockodi.com/Kodi-19/addons.xml</info>
-			<checksum>https://Rockodi.com/Kodi-19/addons.xml.md5</checksum>
-			<datadir zip="true">https://Rockodi.com/Kodi-19/</datadir>
-		</dir>
-		<dir minversion="18.0" maxversion="18.9.0">
-			<info compressed="false">https://Rockodi.com/Kodi-18/addons.xml</info>
-			<checksum>https://Rockodi.com/Kodi-18/addons.xml.md5</checksum>
-			<datadir zip="true">https://Rockodi.com/Kodi-18/</datadir>
-		</dir>
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml.md5</checksum>
@@ -85,8 +35,8 @@
 
 <addon id="plugin.video.lntv"
        name="LNTv"
-       version="0.0.1"
-       provider-name="Anubis">
+       version="22.4.26"
+       provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]">
   <requires>
     <import addon="script.module.pycryptodome" />
     <import addon="script.module.dateutil" />
@@ -112,8 +62,8 @@
 
 <addon id="plugin.video.taptv"
        name="TapTv"
-       version="0.0.1"
-       provider-name="Anubis">
+       version="22.4.26"
+       provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]">
   <requires>
     <import addon="script.module.pycryptodome" />
     <import addon="script.module.requests" />

@@ -3,8 +3,8 @@
 
 <addon id="repository.thewarehouse"
        name="The WareHouse Repository"
-       version="0.0.1"
-       provider-name="Anubis">
+       version="22.4.26"
+       provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]">
     <extension point="xbmc.addon.repository" name="The WareHouse Repository">
         <dir minversion="18.9.0">
             <info compressed="false">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/matrix/zips/addons.xml</info>
@@ -16,56 +16,6 @@
             <checksum>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/leia/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/leia/zips/</datadir>
         </dir>
-        <dir minversion="18.9.0">
-            <info compressed="false">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/</datadir>
-        </dir>
-        <dir minversion="18.0" maxversion="18.9.0">
-            <info compressed="false">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/leia/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/leia/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/leia/zips/</datadir>
-        </dir>
-        <dir>
-            <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
-        </dir>
-        <dir>
-            <info compressed="false">https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml</info>
-            <checksum>https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.github.com/Gujal00/GujalKodiWork/master/zips/</datadir>
-        </dir>
-        <dir>
-            <info compressed="false">https://k.slyguy.xyz/.repo/addons.xml</info>
-            <checksum>https://k.slyguy.xyz/.repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://k.slyguy.xyz/.repo/</datadir>
-        </dir>
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/</datadir>
-		</dir>
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/</datadir>
-		</dir>
-		<dir minversion="18.9.0">
-			<info compressed="false">https://raw.githubusercontent.com/123Venom/repository.metahandler/main/matrix/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/123Venom/repository.metahandler/main/matrix/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/123Venom/repository.metahandler/main/matrix/zips/</datadir>
-		</dir>
-		<dir minversion="18.9.0">
-			<info compressed="false">https://Rockodi.com/Kodi-19/addons.xml</info>
-			<checksum>https://Rockodi.com/Kodi-19/addons.xml.md5</checksum>
-			<datadir zip="true">https://Rockodi.com/Kodi-19/</datadir>
-		</dir>
-		<dir minversion="18.0" maxversion="18.9.0">
-			<info compressed="false">https://Rockodi.com/Kodi-18/addons.xml</info>
-			<checksum>https://Rockodi.com/Kodi-18/addons.xml.md5</checksum>
-			<datadir zip="true">https://Rockodi.com/Kodi-18/</datadir>
-		</dir>
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml.md5</checksum>
@@ -83,25 +33,141 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.lntv"
-       name="LNTv"
-       version="0.0.1"
-       provider-name="Anubis">
-  <requires>
-    <import addon="script.module.pycryptodome" />
-    <import addon="script.module.dateutil" />
-    <import addon="script.module.pyamf" />
-    <import addon="script.module.kodi-six" />
-    <import addon="script.module.future" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.routing" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>video</provides>
+<addon id="repository.slyguy" name="SlyGuy Repository" provider-name="SlyGuy" version="0.0.3">
+  <extension point="xbmc.addon.repository" name="SlyGuy Repository">
+    <dir>
+      <info compressed="false">https://k.slyguy.xyz/.repo/addons.xml</info>
+      <checksum>https://k.slyguy.xyz/.repo/addons.xml.md5</checksum>
+      <datadir zip="true">https://k.slyguy.xyz/.repo/</datadir>
+    </dir>
   </extension>
   <extension point="xbmc.addon.metadata">
-  <summary lang="en">LNTv</summary>
-  <description lang="en_GB">LNTv</description>
+    <platform>all</platform>
+    <description lang="en">Addons by SlyGuy</description>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news></news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="repository.Rockcrusher" name="[COLOR red]Rocks Repository[/COLOR]" version="2.8" provider-name="Rock">
+	<extension point="xbmc.addon.repository" name="[COLOR red]Rocks Repository[/COLOR]">
+	<dir minversion="18.0" maxversion="18.9.0">
+        <info compressed="false">https://Rockodi.com/Kodi-18/addons.xml</info>
+        <checksum>https://Rockodi.com/Kodi-18/addons.xml.md5</checksum>
+        <datadir zip="true">https://Rockodi.com/Kodi-18/</datadir>
+    </dir>
+    <dir minversion="18.9.0">
+        <info compressed="false">https://Rockodi.com/Kodi-19/addons.xml</info>
+        <checksum>https://Rockodi.com/Kodi-19/addons.xml.md5</checksum>
+        <datadir zip="true">https://Rockodi.com/Kodi-19/</datadir>
+    </dir>
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+    </dir>	
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Rocks Addons</summary>
+            <description>Rocks Repository</description>
+            <disclaimer lang="en">Author does not host or distribute any of the content displayed by this addon. Author does not have any affiliation with the content provider.
+            </disclaimer>
+            <platform>all</platform>
+            <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="repository.resolveurl" name="ResolveURL Repository" provider-name="gujal" version="1.0.0">
+  <extension point="xbmc.addon.repository" name="ResolveURL Repository">
+    <dir>
+      <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+    </dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <description lang="en_GB">ResolveURL and Link Tester</description>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news></news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets> 
+  </extension>
+</addon>
+
+<addon id="repository.jurialmunkey" name="jurialmunkey Alpha Repository" version="2.2" provider-name="jurialmunkey">
+    <extension point="xbmc.addon.repository" name="jurialmunkey Alpha Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/repo/zips/</datadir>
+        </dir>
+		<dir minversion="18.0" maxversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/leia/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/leia/zips/</datadir>
+        </dir>
+        <dir minversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>jurialmunkey Alpha Repository</summary>
+        <description>A repository for alpha releases of jurialmunkey's skins.</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="repository.gujal" name="Gujal Addons Repository" version="2.0.0" provider-name="gujal">
+	<extension point="xbmc.addon.repository" name="Gujal Addons Repository">
+		<dir>
+	        <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+	        <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+	        <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml</info>
+		<checksum>https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/Gujal00/GujalKodiWork/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Third party Addons for Kodi</summary>
+		<description>Gujal Addons Repository</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="plugin.video.usgotv"
+       version="22.4.26"
+       provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]">
+<requires>
+  <import addon="xbmc.python" version="3.0.0"/>
+  <import addon="script.module.requests" version="2.25.1"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="addon.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">USGoTv</summary>
+  <description lang="en_GB">USGoTv</description>
   <disclaimer lang="en_GB">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content.</disclaimer>
   <assets>
 	<icon>icon.png</icon>
@@ -110,7 +176,34 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.rbtv" name="RBTv" version="0.0.1" provider-name="Anubis">
+<addon id="plugin.video.taptv"
+       name="TapTv"
+       version="22.4.26"
+       provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]">
+  <requires>
+    <import addon="script.module.pycryptodome" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.kodi-six" />
+    <import addon="script.module.future" />
+    <import addon="script.module.routing" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  <summary lang="en">TapTv</summary>
+  <description lang="en_GB">TapTv</description>
+  <disclaimer lang="en_GB">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content.</disclaimer>
+  <assets>
+	<icon>icon.png</icon>
+	<fanart>fanart.jpg</fanart>
+  </assets>
+</extension>
+</addon>
+
+<addon id="plugin.video.rbtv" name="RBTv"
+       version="22.4.26"
+       provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.pyamf"/>
@@ -134,42 +227,25 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.taptv"
-       name="TapTv"
-       version="0.0.1"
-       provider-name="Anubis">
+<addon id="plugin.video.lntv"
+       name="LNTv"
+       version="22.4.26"
+       provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]">
   <requires>
     <import addon="script.module.pycryptodome" />
-    <import addon="script.module.requests" />
+    <import addon="script.module.dateutil" />
+    <import addon="script.module.pyamf" />
     <import addon="script.module.kodi-six" />
     <import addon="script.module.future" />
+    <import addon="script.module.requests" />
     <import addon="script.module.routing" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-  <summary lang="en">TapTv</summary>
-  <description lang="en_GB">TapTv</description>
-  <disclaimer lang="en_GB">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content.</disclaimer>
-  <assets>
-	<icon>icon.png</icon>
-	<fanart>fanart.jpg</fanart>
-  </assets>
-</extension>
-</addon>
-
-<addon id="plugin.video.usgotv" version="0.0.1" name="USGoTv" provider-name="Anubis">
-<requires>
-  <import addon="xbmc.python" version="3.0.0"/>
-  <import addon="script.module.requests" version="2.25.1"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="addon.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">USGoTv</summary>
-  <description lang="en_GB">USGoTv</description>
+  <summary lang="en">LNTv</summary>
+  <description lang="en_GB">LNTv</description>
   <disclaimer lang="en_GB">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content.</disclaimer>
   <assets>
 	<icon>icon.png</icon>
