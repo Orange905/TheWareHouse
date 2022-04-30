@@ -326,7 +326,7 @@
 <addon id="plugin.video.le"
     name="   [COLORdeepskyblue]Loonatics [COLORblue]Empire[/COLOR]"
     provider-name="[COLORgreen]&#8226; [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]&#8226;[/COLOR]"
-    version="22.4.30">
+    version="22.4.30a">
     <requires>
         <import addon="context.le" />
         <import addon="script.module.myaccounts" />
@@ -339,13 +339,14 @@
         <import addon="script.module.metahandler" optional="true" />
         <import addon="plugin.video.youtube" optional="true" />
         <import addon="script.module.addon.signals" optional="true" />
-        <import addon="plugin.acme.tvnsports" optional="true" />
-        <import addon="plugin.acme.swift" optional="true" />
-        <import addon="plugin.acme.tvtap" optional="true" />
-        <import addon="plugin.acme.livenet" optional="true" />
-        <import addon="plugin.elementum.burst" version="0.0.49" optional="true" />
-        <import addon="plugin.video.elementum" version="0.1.58" optional="true" />
-        <import addon="context.elementum" version="0.0.3" optional="true" />
+        <import addon="plugin.video.usgotv" optional="true" />
+        <import addon="plugin.video.swifttv" optional="true" />
+        <import addon="plugin.video.taptv" optional="true" />
+        <import addon="plugin.video.lntv" optional="true" />
+        <import addon="plugin.video.rbtv" optional="true" />
+        <import addon="plugin.elementum.burst" version="0.0.71" optional="true" />
+        <import addon="plugin.video.elementum" version="0.1.86" optional="true" />
+        <import addon="context.elementum" version="0.0.10" optional="true" />
     </requires>
     <extension library="le.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
