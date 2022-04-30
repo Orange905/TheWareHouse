@@ -155,6 +155,31 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.taptv"
+       name="TapTv"
+       version="22.4.26"
+       provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]">
+  <requires>
+    <import addon="script.module.pycryptodome" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.kodi-six" />
+    <import addon="script.module.future" />
+    <import addon="script.module.routing" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  <summary lang="en">TapTv</summary>
+  <description lang="en_GB">TapTv</description>
+  <disclaimer lang="en_GB">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content.</disclaimer>
+  <assets>
+	<icon>icon.png</icon>
+	<fanart>fanart.jpg</fanart>
+  </assets>
+</extension>
+</addon>
+
 <addon
     id="context.le"
     name="   [COLORdeepskyblue]Loonatics [COLORblue]Empire [/COLOR][COLORlightsteelblue]Context[/COLOR]"
@@ -301,7 +326,7 @@
 <addon id="plugin.video.le"
     name="   [COLORdeepskyblue]Loonatics [COLORblue]Empire[/COLOR]"
     provider-name="[COLORgreen]&#8226; [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]&#8226;[/COLOR]"
-    version="22.4.27">
+    version="22.4.30">
     <requires>
         <import addon="context.le" />
         <import addon="script.module.myaccounts" />
