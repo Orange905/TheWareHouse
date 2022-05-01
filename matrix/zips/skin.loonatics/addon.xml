@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="skin.loonatics" version="21.7.18" name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORlime]Lite [COLORspringgreen]•[/COLOR]" provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR]">
     <requires>
-        <import addon="xbmc.gui" version="5.14.0" />
+        <import addon="xbmc.gui" version="5.15.0" />
         <import addon="script.skinshortcuts" version="1.0.10" />
         <import addon="service.library.data.provider" version="0.0.7" />
         <import addon="resource.images.studios.white" version="0.0.1" />
