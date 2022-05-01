@@ -1,11 +1,11 @@
 <addon id="plugin.video.le"
     name="   [COLORdeepskyblue]Loonatics [COLORblue]Empire[/COLOR]"
     provider-name="[COLORgreen]&#8226; [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]&#8226;[/COLOR]"
-    version="22.4.30a">
+    version="22.5.1">
     <requires>
         <import addon="context.le" />
-        <import addon="script.module.myaccounts" />
-        <import addon="script.module.fenomscrapers" />
+        <import addon="script.module.youraccounts" />
+        <import addon="script.module.lescrapers" />
         <import addon="script.module.requests" />
         <import addon="script.module.beautifulsoup4" />
         <import addon="script.module.six" />
