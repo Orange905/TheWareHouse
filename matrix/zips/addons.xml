@@ -542,37 +542,6 @@
     </extension>
 </addon>
 
-<addon id="script.module.myaccounts"
-       name="My Accounts"
-       version="22.4.27"
-       provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]">
-	<requires>
-		<import addon="script.module.requests" version="2.19.1" />
-	</requires>
-	<extension point="xbmc.python.script" library="lib/default.py">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.service" library="lib/service.py" start="startup" />
-	<extension point="xbmc.python.module" library="lib" /> <!-- Must be placed after xbmc.python.pluginsource, otherwise the addon does not show in the repository. -->
-	<extension point="xbmc.addon.metadata">
-		<reuselanguageinvoker>false</reuselanguageinvoker>
-		<summary lang="en">My Accounts Module</summary>
-		<description>Single placeholder for all your accounts.</description>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-		<forum></forum>
-		<website>https://github.com/Mr-Kodi/repository.myaccounts</website>
-		<source>https://github.com/Mr-Kodi/repository.myaccounts</source>
-		<disclaimer lang="en">The author is not responsible for the use of this addon. [CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.png</fanart>
-			<screenshot></screenshot>
-		</assets>
-		<news></news>
-	</extension>
-</addon>
-
 <addon id="plugin.video.thepromise"
        name="ThePromise"
        version="22.4.28"
@@ -667,12 +636,12 @@
 <addon id="plugin.video.ezra"
        name="Ezra"
        provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]"
-       version="22.4.29">
+       version="22.5.1">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" version="2.19.1" />
         <import addon="script.ezart" />
-        <import addon="script.module.myaccounts" />
+        <import addon="script.module.youraccounts" />
         <import addon="script.module.ezscrapers" />
     </requires>
     <extension library="resources/lib/ezra.py" point="xbmc.python.pluginsource">
@@ -743,14 +712,15 @@
     </extension>
 </addon>
 
+
 <addon id="script.module.ezscrapers"
        name="EzScrapers Module"
        provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]"
-       version="22.4.29">
+       version="22.5.1">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
-        <import addon="script.module.myaccounts" />
+        <import addon="script.module.youraccounts" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="lib/default.py">
         <provides>executable</provides>
@@ -780,7 +750,7 @@
 <addon id="script.ezart"
        name="Ezra Art Module"
        provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]"
-       version="22.4.29">
+       version="22.5.1">
     <extension point="xbmc.python.module" />
     <extension point="xbmc.addon.metadata">
         <summary>Themes for Addons</summary>
