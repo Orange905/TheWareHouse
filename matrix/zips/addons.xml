@@ -301,7 +301,6 @@
 </extension>
 </addon>
 
-
 <addon id="plugin.video.swifttv" name="SwiftTv"
        version="22.4.26"
        provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]">
@@ -504,7 +503,7 @@
 </addon>
 
 <addon id="context.trailer.play"
-       name="Comtext Trailer Play"
+       name="Context Trailer Play"
        provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]"
        version="22.5.8">
     <requires>

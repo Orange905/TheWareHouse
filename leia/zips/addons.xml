@@ -429,7 +429,7 @@
 </addon>
 
 <addon id="context.trailer.play"
-       name="Comtext Trailer Play"
+       name="Context Trailer Play"
        provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]"
        version="22.5.8">
     <requires>
