@@ -1,7 +1,7 @@
-<addon id="script.module.ezscrapers"
-       name="EzScrapers Module"
+<addon id="script.module.yourscrapers"
+       name="YourScrapers Module"
        provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]"
-       version="22.5.1">
+       version="22.5.13">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -14,7 +14,7 @@
     <extension point="xbmc.python.module" library="lib" /> <!-- Must be placed after xbmc.python.pluginsource, otherwise the addon does not show in the repository. -->
     <extension point="xbmc.addon.metadata">
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <summary lang="en">Ezra Scrapers Module</summary>
+        <summary lang="en">Your Scrapers Module</summary>
         <description>Scrape common video host for URL's to be playable in Kodi, simplifying addon development of video plugins requiring multi video hosts.</description>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
