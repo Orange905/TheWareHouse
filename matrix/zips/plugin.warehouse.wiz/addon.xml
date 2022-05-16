@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.warehouse.wiz"
+       name="[B][COLOR purple]WA[/COLOR][/B][B][COLOR orchid]RE[/COLOR][/B][B][COLOR darkorchid]HO[/COLOR][/B][B][COLOR orchid]USE[/COLOR][/B] [COLOR purple]Wizard[/COLOR]"
+       version="22.5.16"
+       provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.six" />
+        <import addon="script.kodi.android.update" optional="true" version="1.1.7" />
+        <import addon="script.speedtester" optional="true" version="1.1.2" />
+    </requires>
+
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+
+    <extension point="xbmc.service" library="startup.py" start="startup" />
+
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">[COLOR purple]WA[/COLOR][COLOR orchid]RE[/COLOR][COLOR darkorchid]HO[/COLOR][COLOR orchid]USE[/COLOR] [COLOR purple]Wizard[/COLOR]</summary>
+        <description lang="en">[COLOR purple]WA[/COLOR][COLOR orchid]RE[/COLOR][COLOR darkorchid]HO[/COLOR][COLOR orchid]USE[/COLOR] [COLOR purple]Wizard[/COLOR]</description>
+        <platform>all</platform>
+        <reuselanguageinvoker>false</reuselanguageinvoker>
+        <source></source>
+        <news></news>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.png</fanart>
+        </assets>
+    </extension>
+</addon>
