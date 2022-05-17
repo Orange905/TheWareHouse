@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+
+<dir>
+    <title>16,000 Free 1Click Movies A - Z</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/movies.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/icon.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <title>1300 Free 1Click Kids Movies A - Z</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/kidsmovies.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/icon.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLOR deepskyblue]Free 1Click Movies [COLOR blue]# - E[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/1clicka-e.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/icon.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLOR deepskyblue]Free 1Click Movies [COLOR blue]F - K[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/1clickf-k.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/icon.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLOR deepskyblue]Free 1Click Movies [COLOR blue]L - P[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/1clickl-p.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/icon.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLOR deepskyblue]Free 1Click Movies [COLOR blue]Q - T[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/1clickq-t.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/icon.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLOR deepskyblue]Free 1Click Movies [COLOR blue]U - Z[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/1clicku-z.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/icon.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/oneclick/fanart.jpg</fanart>
+</dir>
+
+</xml>
