@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+
+<xml>
+
+<dir>
+    <title>Pluto Tv USA</title>
+    <link>https://i.mjh.nz/PlutoTV/us.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
+</dir>
+
+<dir>
+    <title>SamSung Tv USA</title>
+    <link>https://i.mjh.nz/SamsungTVPlus/us.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
+</dir>
+
+<dir>
+    <title>Plex Live USA</title>
+    <link>https://i.mjh.nz/Plex/us.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
+</dir>
+
+<dir>
+    <title>Stirr</title>
+    <link>https://i.mjh.nz/Stirr/all.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
+</dir>
+
+<dir>
+    <title>PBS</title>
+    <link>https://i.mjh.nz/PBS/all.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
+</dir>
+<dir>
+    <title>Pluto Tv UK</title>
+    <link>https://i.mjh.nz/PlutoTV/gb.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
+</dir>
+
+<dir>
+    <title>SamSung Tv UK</title>
+    <link>https://i.mjh.nz/SamsungTVPlus/gb.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
+</dir>
+
+<dir >
+    <title>Plex Live UK</title>
+    <link>https://i.mjh.nz/Plex/gb.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
+</dir >
+
+<dir>
+    <title>Pluto Tv ES</title>
+    <link>https://i.mjh.nz/PlutoTV/es.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
+</dir>
+
+<dir>
+    <title>SamSung Tv ES</title>
+    <link>https://i.mjh.nz/SamsungTVPlus/es.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
+</dir>
+
+<dir >
+    <title>Plex Live ES</title>
+    <link>https://i.mjh.nz/Plex/es.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
+</dir >
+
+<dir >
+    <title>Fluxus Tv - Updated Monthly</title>
+    <link>https://bitbucket.org/!api/2.0/snippets/fluxustv/expnoX/files/IPTV_032321</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
+</dir >
+
+<dir>
+    <title>24/7 Tv Shows</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/247.m3u</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
+</dir>
+
+<dir>
+    <title>Parody Movies</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/porn/BWPARODY.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/blank.jpg</fanart>
+</dir>
+
+</xml>
