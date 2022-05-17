@@ -1,0 +1,27 @@
+THEWAREHOUSE REPO 18 / 19 URL
+https://warehousecrates.github.io/TheWareHouse/
+
+LOONATICS ASYLUM REPO 18 / 19 URL
+https://techecoyote.github.io/Install_LooNatics/
+
+TMDBHELPER PLAYERS URL - (Place this url inside settings of TMDB Player)
+https://warehousecrates.github.io/TheWareHouse/TheWareHouseTMDB-Players.zip
+https://techecoyote.github.io/Install_LooNatics/LoonaticsTMDB-Players.zip
+
+Loonatics Empire (LE) Addon
+Password for ADULT / ADULT Cartoons / XXX: yen00L
+
+Eventually, I plan on removing Loonatics Asylum Repo from GitHub as soon as I get things more organized.
+When this happens, I will only be maintaining The WareHouse Repo. I suggest everyone ONLY use TheWareHouse Repo
+to alleviate any future problems.
+
+Additional support: please join me in TeleGram (DM) the following: Install Telegram (windows / android / ios)
+
+DM - Direct Message me for Group Invitation:
+@Tech_E_Coyote
+
+Thank you for your support
+
+
+
+The WareHouse - Loonatics
