@@ -52,13 +52,6 @@
     <fanart>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/m3u/blank.png</fanart>
 </dir>
 
-<dir >
-    <title>Plex Live UK</title>
-    <link>https://i.mjh.nz/Plex/gb.m3u8</link>
-    <thumbnail>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/m3u/blank.png</thumbnail>
-    <fanart>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/m3u/blank.png</fanart>
-</dir >
-
 <dir>
     <title>Pluto Tv ES</title>
     <link>https://i.mjh.nz/PlutoTV/es.m3u8</link>
@@ -74,31 +67,17 @@
 </dir>
 
 <dir >
-    <title>Plex Live ES</title>
-    <link>https://i.mjh.nz/Plex/es.m3u8</link>
+    <title>24/7 Tv Shows</title>
+    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/247.m3u</link>
     <thumbnail>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/m3u/blank.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/m3u/blank.png</fanart>
 </dir >
 
 <dir >
-    <title>Fluxus Tv - Updated Monthly</title>
-    <link>https://bitbucket.org/!api/2.0/snippets/fluxustv/expnoX/files/IPTV_032321</link>
-    <thumbnail>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/m3u/blank.png</thumbnail>
-    <fanart>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/m3u/blank.png</fanart>
-</dir >
-
-<dir>
-    <title>24/7 Tv Shows</title>
-    <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/247.m3u</link>
-    <thumbnail>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/m3u/blank.png</thumbnail>
-    <fanart>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/m3u/blank.png</fanart>
-</dir>
-
-<dir>
     <title>Parody Movies</title>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/porn/BWPARODY.xml</link>
     <thumbnail>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/m3u/blank.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/m3u/blank.png</fanart>
-</dir>
+</dir >
 
 </xml>
