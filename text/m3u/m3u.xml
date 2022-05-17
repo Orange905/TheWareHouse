@@ -67,6 +67,20 @@
     <fanart>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/m3u/blank.png</fanart>
 </dir>
 
+<dir>
+    <title>FluxUxTV (USA)</title>
+    <link>https://bit.ly/FTV-ENG</link>
+    <thumbnail>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/m3u/blank.png</fanart>
+</dir>
+
+<dir>
+    <title>FluxUxTV (ES)</title>
+    <link>https://bit.ly/FTV-ESP</link>
+    <thumbnail>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/m3u/blank.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/m3u/blank.png</fanart>
+</dir>
+
 <dir >
     <title>24/7 Tv Shows</title>
     <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/m3u/247.m3u</link>
