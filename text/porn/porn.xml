@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+
+<dir>
+<name>FluxusTV-XXX M3u List</name>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/porn/fluxusadult.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<plugin >
+<name>Porn Parody Movies</name>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/porn/BWPARODY.m3u&mode=1&name=LE</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
