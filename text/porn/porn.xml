@@ -9,6 +9,13 @@
 <fanart></fanart>
 </dir>
 
+<dir>
+<name>My Cams XXX</name>
+<link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/porn/vods.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
 <plugin >
 <name>Porn Parody Movies</name>
 <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/porn/BWPARODY.m3u&mode=1&name=LE</link>
