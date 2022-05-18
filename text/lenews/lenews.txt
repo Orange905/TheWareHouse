@@ -9,7 +9,7 @@ https://warehousecrates.github.io/TheWareHouse/TheWareHouseTMDB-Players.zip
 https://techecoyote.github.io/Install_LooNatics/LoonaticsTMDB-Players.zip
 
 Loonatics Empire (LE) Addon
-Password for ADULT / ADULT Cartoons / XXX: yen00L
+Password for ADULT / ADULT Cartoons: yen00L
 
 Eventually, I plan on removing Loonatics Asylum Repo from GitHub as soon as
 I get things more organized. When this happens, I will only be maintaining
@@ -22,6 +22,5 @@ DM - Direct Message me for Group Invitation:
 @Tech_E_Coyote
 
 Thank you for your support
-
 
 The WareHouse - Loonatics
