@@ -552,7 +552,7 @@
 <addon id="plugin.video.le"
     name="   [COLORdeepskyblue]Loonatics [COLORblue]Empire[/COLOR]"
     provider-name="[COLORgreen]&#8226; [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]&#8226;[/COLOR]"
-    version="22.5.1">
+    version="22.5.18">
     <requires>
         <import addon="context.le" />
         <import addon="script.module.youraccounts" />
