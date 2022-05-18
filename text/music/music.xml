@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+
+<plugin>
+    <title>Latest Charts</title>
+    <link>plugin://plugin.video.youtube/playlist/PLywWGW4ILrvpqqkgKRV8jpZMaUPohQipP/</link>
+    <thumbnail>http://i.imgur.com/CDCfAIG.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+    <content></content>
+</plugin>
+
+<plugin>
+    <title>UK Top 40 Songs This Week</title>
+    <link>plugin://plugin.video.youtube/playlist/PL3oW2tjiIxvSNtMGRTcmla1KBpFkyeiN2/</link>
+    <thumbnail>http://i.imgur.com/CDCfAIG.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+    <content></content>
+</plugin>
+
+<plugin>
+    <title>US Top 40 Songs This Week</title>
+    <link>plugin://plugin.video.youtube/playlist/PLN3h3MQ8RhVy7CtflMwSvV7AN3-dxxBZH/</link>
+    <thumbnail>http://i.imgur.com/CDCfAIG.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+    <content></content>
+</plugin>
+
+<dir>
+<name>Now Music</name>
+<link>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/music/nowmusic.xml</link>
+<thumbnail>http://i.imgur.com/nbA6HyC.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<name>Top 100</name>
+<link>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/music/mixed.xml</link>
+<thumbnail>http://i.imgur.com/iNPkoaq.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<name>Artists</name>
+<link>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/music/artist.xml</link>
+<thumbnail>http://i.imgur.com/2n6vSoi.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<name>Karaoke Music</name>
+<link>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/music/karaoke.xml</link>
+<thumbnail>http://i.imgur.com/j1pW8jB.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+</dir>
+
+<dir >
+    <title>Love Music Playlists</title>
+    <link>https://pastebin.com/raw/BmywpkeF</link>
+    <thumbnail>http://icons.iconarchive.com/icons/succodesign/love-is-in-the-web/512/heart-case-icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+    <content></content>
+</dir >
+
+<plugin >
+    <title>4K Music Videos</title>
+    <link>plugin://plugin.video.youtube/playlist/PL9gObAjpDk3wdzQ3av7Zx2qC07gtvm6sW/</link>
+    <thumbnail>https://i.imgur.com/QR2Dw6N.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+    <content></content>
+</plugin >
+
+<plugin>
+    <title>Best of Country Music</title>
+    <link>plugin://plugin.video.youtube/playlist/PL3oW2tjiIxvRDymF6SFf7t4xfDbtRQxlt/</link>
+    <thumbnail>https://lh5.ggpht.com/RI-x-P9WNP-JpaADdZl4je306E4X97ddfwfJ5YObylHl-1Bz0T2jcQ_THxwncUjgNZg=w300</thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+    <content></content>
+</plugin>
+
+<plugin>
+    <title>Best Overall Country</title>
+    <link>plugin://plugin.video.youtube/playlist/PLsWYhntNoL3hW_J9Ulrb-3s1iFaVQb1Y8/</link>
+    <thumbnail>https://lh5.ggpht.com/RI-x-P9WNP-JpaADdZl4je306E4X97ddfwfJ5YObylHl-1Bz0T2jcQ_THxwncUjgNZg=w300</thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+    <content></content>
+</plugin>

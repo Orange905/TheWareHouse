@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+
+<plugin>
+	<title>Rentless Playlists</title>
+	<link>plugin://plugin.video.youtube/channel/UC6cTTrrR2Uk63jVkaXc86jQ/</link>
+	<thumbnail>http://icons.iconarchive.com/icons/iconscity/flags/256/uk-icon.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+	<content></content>
+</plugin>
+
+<plugin>
+	<title>On The March</title>
+	<link>plugin://plugin.video.youtube/channel/UC24RwRYQufmcCUm9Z1aX-6Q/</link>
+	<thumbnail>http://icons.iconarchive.com/icons/iconscity/flags/256/uk-icon.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+	<content></content>
+</plugin>
+
+<plugin>
+	<title>Blood and Thunder</title>
+	<link>plugin://plugin.video.youtube/channel/UCOIGLL1fNiwH36h6LQVLyHw/</link>
+	<thumbnail>http://icons.iconarchive.com/icons/iconscity/flags/256/uk-icon.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+	<content></content>
+</plugin>
+
+<plugin>
+	<title>AdiProd</title>
+	<link>plugin://plugin.video.youtube/channel/UC8WeZgCce10qRCfKPKgCBqw/</link>
+	<thumbnail>http://icons.iconarchive.com/icons/iconscity/flags/256/uk-icon.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+	<content></content>
+</plugin>
+
+<plugin>
+	<title>Loyal Ulster Bands</title>
+	<link>plugin://plugin.video.youtube/channel/UC_MaBZovnn-u3DF_1fbxheQ/</link>
+	<thumbnail>http://icons.iconarchive.com/icons/iconscity/flags/256/uk-icon.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+	<content></content>
+</plugin>
+
+<plugin>
+	<title>Royalist Loyalist Media</title>
+	<link>plugin://plugin.video.youtube/channel/UCT5cb6C74z_J_ZLd4GE8VFg/</link>
+	<thumbnail>http://icons.iconarchive.com/icons/iconscity/flags/256/uk-icon.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+	<content></content>
+</plugin>
+
+<plugin>
+	<title>Band Parades HD</title>
+	<link>plugin://plugin.video.youtube/channel/UCB7s1pxLuz-M96ETgjQc97g/</link>
+	<thumbnail>http://icons.iconarchive.com/icons/iconscity/flags/256/uk-icon.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+	<content></content>
+</plugin>
+
+<plugin>
+	<title>Band Parades - Promoting the Band Scene</title>
+	<link>plugin://plugin.video.youtube/channel/UCAtCz2OkaIKrWOa0OfPqeNw/</link>
+	<thumbnail>http://icons.iconarchive.com/icons/iconscity/flags/256/uk-icon.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.lu/resources/artwork/lu/fanart.jpg</fanart>
+	<content></content>
+</plugin>
+
+<item>
+	<title>UlsterScot Fm Radio</title>
+	<link>http://19293.live.streamtheworld.com/SP_R2075797.mp3?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=874bffb6-b612-492b-9eec-6b2d4df5b5fc</link>
+	<thumbnail>https://pbs.twimg.com/media/C8gRJBYXsAEnwbF.jpg</thumbnail>
+	<fanart>https://libdemsni.files.wordpress.com/2012/12/532555_131391840349316_1982374532_n.jpg</fanart>
+	<content></content>
+</item>
+
+<item>
+	<title>SashBash Fm Radio</title>
+	<link>http://titan.shoutca.st:8916/stream</link>
+	<thumbnail>https://i.ytimg.com/vi/aerjqjYd5gY/maxresdefault.jpg</thumbnail>
+	<fanart>https://libdemsni.files.wordpress.com/2012/12/532555_131391840349316_1982374532_n.jpg</fanart>
+	<content></content>
+</item>
+
+<item>
+	<title>Rangers Radio</title>
+	<link>http://rangersradio.online:8000/stream.mp3</link>
+	<thumbnail>https://rangersradio.online/images/MyBBPro/logo.png</thumbnail>
+	<fanart>https://libdemsni.files.wordpress.com/2012/12/532555_131391840349316_1982374532_n.jpg</fanart>
+	<content></content>
+</item>
