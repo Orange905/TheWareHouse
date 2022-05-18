@@ -54,25 +54,49 @@
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
 </dir>
 
-<dir >
+<dir>
     <title>Love Music Playlists</title>
-    <link>https://pastebin.com/raw/BmywpkeF</link>
+    <link>plugin://plugin.video.youtube/playlist/PL64G6j8ePNureM8YCKy5nRFyzYf8I2noy/</link>
     <thumbnail>http://icons.iconarchive.com/icons/succodesign/love-is-in-the-web/512/heart-case-icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
     <content></content>
-</dir >
+</dir>
 
-<plugin >
+<plugin>
     <title>4K Music Videos</title>
-    <link>plugin://plugin.video.youtube/playlist/PL9gObAjpDk3wdzQ3av7Zx2qC07gtvm6sW/</link>
+    <link>plugin://plugin.video.youtube/playlist/PLoj6YVKua1uJmN0GxnD7gRoASjnsS_ATD/</link>
     <thumbnail>https://i.imgur.com/QR2Dw6N.png</thumbnail>
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
     <content></content>
-</plugin >
+</plugin>
 
 <plugin>
     <title>Best of Country Music</title>
     <link>plugin://plugin.video.youtube/playlist/PL3oW2tjiIxvRDymF6SFf7t4xfDbtRQxlt/</link>
+    <thumbnail>https://lh5.ggpht.com/RI-x-P9WNP-JpaADdZl4je306E4X97ddfwfJ5YObylHl-1Bz0T2jcQ_THxwncUjgNZg=w300</thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+    <content></content>
+</plugin>
+
+<plugin>
+    <title>Pop Music</title>
+    <link>plugin://plugin.video.youtube/playlist/PLMC9KNkIncKtPzgY-5rmhvj7fax8fdxoj/</link>
+    <thumbnail>https://lh5.ggpht.com/RI-x-P9WNP-JpaADdZl4je306E4X97ddfwfJ5YObylHl-1Bz0T2jcQ_THxwncUjgNZg=w300</thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+    <content></content>
+</plugin>
+
+<plugin>
+    <title>Best Latin Music</title>
+    <link>plugin://plugin.video.youtube/playlist/PLGXarP4-gkbYSnVY-kqjqtFZksk9KvF5T/</link>
+    <thumbnail>https://lh5.ggpht.com/RI-x-P9WNP-JpaADdZl4je306E4X97ddfwfJ5YObylHl-1Bz0T2jcQ_THxwncUjgNZg=w300</thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+    <content></content>
+</plugin>
+
+<plugin>
+    <title>Best R / B</title>
+    <link>plugin://plugin.video.youtube/playlist/PLAKw47hquUsIWArq-QR2v_wR-JZIjASWv/</link>
     <thumbnail>https://lh5.ggpht.com/RI-x-P9WNP-JpaADdZl4je306E4X97ddfwfJ5YObylHl-1Bz0T2jcQ_THxwncUjgNZg=w300</thumbnail>
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
     <content></content>
