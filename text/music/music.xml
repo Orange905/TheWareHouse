@@ -43,6 +43,22 @@
 </plugin>
 
 <plugin>
+    <title>Hot Latina Hits</title>
+    <link>plugin://plugin.video.youtube/playlist/PLkqz3S84Tw-QoDzNr9VvMXxUTQ7TkANO_/</link>
+    <thumbnail></thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+    <content></content>
+</plugin>
+
+<plugin>
+    <title>Sexy Latin Videos</title>
+    <link>plugin://plugin.video.youtube/playlist/PLtUprbCEtrHlQoIGTgalJ7jbaSBI9Eq4r/</link>
+    <thumbnail></thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+    <content></content>
+</plugin>
+
+<plugin>
     <title>Best of Country Music</title>
     <link>plugin://plugin.video.youtube/playlist/PL3oW2tjiIxvRDymF6SFf7t4xfDbtRQxlt/</link>
     <thumbnail>https://lh5.ggpht.com/RI-x-P9WNP-JpaADdZl4je306E4X97ddfwfJ5YObylHl-1Bz0T2jcQ_THxwncUjgNZg=w300</thumbnail>
