@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
+PLkoOCo9K_o4VeyULie5VYItKtgAh0UyAc
+
+<plugin>
+    <title>Top 1OO Songs of 2021</title>
+    <link>plugin://plugin.video.youtube/playlist/PLOhV0FrFphUflB1Ee8CPmPhJVNb0nfMii/</link>
+    <thumbnail>http://i.imgur.com/iNPkoaq.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+    <content></content>
+</plugin>
+
+<plugin>
+    <title>Top 1OO Songs of 2020</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfWTbASpwTDiVOkVmOU2QA97pFtR0fXj6/</link>
+    <thumbnail>http://i.imgur.com/iNPkoaq.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+    <content></content>
+</plugin>
+
+<plugin>
+    <title>Top 1OO Songs of 2019</title>
+    <link>plugin://plugin.video.youtube/playlist/PLgROmqMrpzxXQYr2pGsWLgJRX7Vyzk7WV/</link>
+    <thumbnail>http://i.imgur.com/iNPkoaq.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+    <content></content>
+</plugin>
+
+<plugin>
+    <title>Top 1OO Songs of 2018</title>
+    <link>plugin://plugin.video.youtube/playlist/PLkoOCo9K_o4VeyULie5VYItKtgAh0UyAc/</link>
+    <thumbnail>http://i.imgur.com/iNPkoaq.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
+    <content></content>
+</plugin>
 
 <plugin>
     <title>Top 1OO Songs of 2017</title>

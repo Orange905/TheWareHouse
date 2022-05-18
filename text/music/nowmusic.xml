@@ -2,12 +2,12 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
-<plugin>
+<plugin >
     <title>Now That’s What I Call Music 1</title>
     <link>plugin://plugin.video.youtube/playlist/PLSDFo3uefkViQiBE1boD4E1lkT-L0tval/</link>
     <thumbnail>https://i.imgur.com/sTxpLUS.png</thumbnail>
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
-</plugin>
+</plugin >
 
 <plugin>
     <title>Now That's What I Call Music 2</title>
@@ -23,12 +23,12 @@
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
 </plugin>
 
-<plugin>
+<plugin >
     <title>Now That's What I Call Music 4</title>
     <link>plugin://plugin.video.youtube/playlist/playlist?list=PLC134EF07843F8E12/</link>
     <thumbnail>https://i.imgur.com/sTxpLUS.png</thumbnail>
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
-</plugin>
+</plugin >
 
 <plugin>
     <title>Now That's What I Call Music 5</title>
@@ -65,21 +65,21 @@
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
 </plugin>
 
-<plugin>
+<plugin >
     <title>Now That’s What I Call Music 10</title>
     <link>plugin://plugin.video.youtube/playlist/PLGQ0UcnwJRN0vlWtPCvCddvpVv-_RJXik/</link>
     <thumbnail>https://i.imgur.com/sTxpLUS.png</thumbnail>
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
-</plugin>
+</plugin >
 
-<plugin>
+<plugin >
     <title>Now That's What I Call Music 11</title>
     <link>plugin://plugin.video.youtube/playlist/PLe_aExlm6LzI-bHdvaznqY9HaN0uccsWY/</link>
     <thumbnail>https://i.imgur.com/sTxpLUS.png</thumbnail>
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
-</plugin>
+</plugin >
 
-    <plugin>
+<plugin>
     <title>Now That's What I Call Music 12</title>
     <link>plugin://plugin.video.youtube/playlist/PLDouWbMQEftHsFyHSBua-RZLFsx--Cu4U/</link>
     <thumbnail>https://i.imgur.com/sTxpLUS.png</thumbnail>
@@ -114,12 +114,12 @@
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
 </plugin>
 
-<plugin>
+<plugin >
     <title>Now That's What I Call Music 17</title>
     <link>plugin://plugin.video.youtube/playlist/PLGQ0UcnwJRN2YFTPvcFdlEqPk2X50EtsC/</link>
     <thumbnail>https://i.imgur.com/sTxpLUS.png</thumbnail>
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
-</plugin>
+</plugin >
 
 <plugin>
     <title>Now That's What I Call Music 18</title>
@@ -128,12 +128,12 @@
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
 </plugin>
 
-<plugin>
+<plugin >
     <title>Now That's What I Call Music 19</title>
     <link>plugin://plugin.video.youtube/playlist/PLGQ0UcnwJRN3nlqZfg3GzdnJRu7tXbDvP/</link>
     <thumbnail>https://i.imgur.com/sTxpLUS.png</thumbnail>
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
-</plugin>
+</plugin >
 
 <plugin>
     <title>Now That's What I Call Music 20</title>
@@ -198,12 +198,12 @@
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
 </plugin>
 
-<plugin>
+<plugin >
     <title>Now That's What I Call Music 29</title>
     <link>plugin://plugin.video.youtube/playlist/PLsqB7ljSBkucC3zgKZF3S4EiZ45PUmx-/</link>
     <thumbnail>https://i.imgur.com/sTxpLUS.png</thumbnail>
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
-</plugin>
+</plugin >
 
 <plugin>
     <title>Now That's What I Call Music 30</title>
@@ -317,12 +317,12 @@
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
 </plugin>
 
-<plugin>
+<plugin >
     <title>Now That's What I Call Music 46</title>
     <link>plugin://plugin.video.youtube/playlist/PLDUAmuW0s8Whc9NXMvEtO5jFynx43OBLo/</link>
     <thumbnail>https://i.imgur.com/sTxpLUS.png</thumbnail>
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
-</plugin>
+</plugin >
 
 <plugin>
     <title>Now That's What I Call Music 47</title>
@@ -345,12 +345,12 @@
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
 </plugin>
 
-<plugin>
+<plugin >
     <title>Now That's What I Call Music 50</title>
     <link>plugin://plugin.video.youtube/playlist//</link>
     <thumbnail>https://i.imgur.com/sTxpLUS.png</thumbnail>
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
-</plugin>
+</plugin >
 
 <plugin>
     <title>Now That's What I Call Music 51</title>
