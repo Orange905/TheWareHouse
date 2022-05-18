@@ -54,13 +54,13 @@
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
 </dir>
 
-<dir>
-    <title>Love Music Playlists</title>
+<plugin>
+    <title>Love Music</title>
     <link>plugin://plugin.video.youtube/playlist/PL64G6j8ePNureM8YCKy5nRFyzYf8I2noy/</link>
     <thumbnail>http://icons.iconarchive.com/icons/succodesign/love-is-in-the-web/512/heart-case-icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.le/resources/artwork/le/fanart.jpg</fanart>
     <content></content>
-</dir>
+</plugin>
 
 <plugin>
     <title>4K Music Videos</title>
