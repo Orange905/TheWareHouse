@@ -725,11 +725,9 @@
 
 <addon id="plugin.video.thepromise"
        name="ThePromise"
-       version="22.4.28"
+       version="22.7.31"
        provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]">
     <requires>
-        <!--<import addon="xbmc.python" version="2.20.0" />-->
-        <!--<import addon="script.thepromise.metadata" />-->
         <import addon="script.thepromise.artwork" />
         <import addon="script.module.resolveurl" />
         <import addon="script.module.requests" />
@@ -737,6 +735,11 @@
         <import addon="script.module.six" />
         <import addon="script.module.kodi-six" />
         <import addon="script.module.simplejson" />
+        <import addon="plugin.video.usgotv" optional="true" />
+        <import addon="plugin.video.swifttv" optional="true" />
+        <import addon="plugin.video.taptv" optional="true" />
+        <import addon="plugin.video.lntv" optional="true" />
+        <import addon="plugin.video.rbtv" optional="true" />
         <import addon="plugin.video.youtube" optional="true" />
     </requires>
     <extension library="thepromise.py" point="xbmc.python.pluginsource">
@@ -797,7 +800,7 @@
 
 <addon id="script.thepromise.artwork"
        name="ThePromise Artwork"
-       version="22.4.28"
+       version="22.7.31"
        provider-name="[COLORpurple]• [COLORorchid]Tech [COLORdarkorchid]E [COLORplum]Coyote [COLORpurple]•[/COLOR]">
     <requires>
         <!--<import addon="xbmc.python" version="2.19.0"/>-->
