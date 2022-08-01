@@ -141,6 +141,20 @@ icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/e
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="Name"
 
+name="50's 60's 70's SciFi / Horror Movies"
+section="false"
+search="false"
+subid="false"
+playlistid="PLAQlOGtboTMGSyCXjihHRO8lBkXecLotW"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
+fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
+description="Name"
+
+
+
+
 name="Music to Chill"
 section="false"
 search="false"
