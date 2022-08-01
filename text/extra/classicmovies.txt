@@ -9,132 +9,132 @@ icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/e
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="British Movie 50's 60's 70's"
 
-name="Name"
+name="Great Old Movies"
 section="false"
 search="false"
 subid="false"
-playlistid="xxx"
+playlistid="PLeagipoZmyfnIxkk9qKN-ewkuDeI-JP0i"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="Name"
 
-name="Name"
+name="Horror Movies 1920 - 2000"
 section="false"
 search="false"
 subid="false"
-playlistid="xxx"
+playlistid="PLSuUPfsoBfqU1ohWHX-o5EoYIZjRqGgqY"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="Name"
 
-name="Name"
+name="Old Movies Collection"
 section="false"
 search="false"
 subid="false"
-playlistid="xxx"
+playlistid="PLqxAcWKhE3kZdgbt8GbimWU5tcMO9-Att"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="Name"
 
-name="Name"
+name="20's 30's 40's 50's Movies"
 section="false"
 search="false"
 subid="false"
-playlistid="xxx"
+playlistid="PLX9_I-EOJPdFuOjcI2zkmTck55homHEBE"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="Name"
 
-name="Name"
+name="1950's Movies"
 section="false"
 search="false"
 subid="false"
-playlistid="xxx"
+playlistid="PL8Nn95jd6kYVCzwyAIP_N6gz_OLRJUbjM"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="Name"
 
-name="Name"
+name="1920 -1960 Western Movies"
 section="false"
 search="false"
 subid="false"
-playlistid="xxx"
+playlistid="PLX9_I-EOJPdEtbHidfqDxKYnrFQvsYbzc"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="Name"
 
-name="Name"
+name="Turner Classic Movies TCM"
 section="false"
 search="false"
 subid="false"
-playlistid="xxx"
+playlistid="PLjagMYJhaYIXItuPv6HoTBkkqwS_oKIxe"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="Name"
 
-name="Name"
+name="Classic 1950's Movies"
 section="false"
 search="false"
 subid="false"
-playlistid="xxx"
+playlistid="PL18A29186EDC1F1BB"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="Name"
 
-name="Name"
+name="Classic 1940's Movies"
 section="false"
 search="false"
 subid="false"
-playlistid="xxx"
+playlistid="PL305D41CC7F7B54B6"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="Name"
 
-name="Name"
+name="Classic Musicals"
 section="false"
 search="false"
 subid="false"
-playlistid="xxx"
+playlistid="PL8Nn95jd6kYVouE2YjQT2oTwG7ZbAjak1"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="Name"
 
-name="Name"
+name="Classic 1960's Movies"
 section="false"
 search="false"
 subid="false"
-playlistid="xxx"
+playlistid="PLC88802D61D5BB8ED"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="Name"
 
-name="Name"
+name="Classic 1930's Movies"
 section="false"
 search="false"
 subid="false"
-playlistid="xxx"
+playlistid="PLHjdjjnv5hQvEnTPL3J9DePR8ZhN2u-SE"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
@@ -151,46 +151,3 @@ videoid="szL8QmWgCGo"
 icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="Music to Chill"
-
-
-
-
-British movies 50 60 70s
-https://www.youtube.com/playlist?list=PL8Nn95jd6kYXDbj_e7pvNL_QXKCILudiQ
-
-horror movies 1920 - 2000
-https://www.youtube.com/playlist?list=PLSuUPfsoBfqU1ohWHX-o5EoYIZjRqGgqY
-
-old movies collection
-https://www.youtube.com/playlist?list=PLqxAcWKhE3kZdgbt8GbimWU5tcMO9-Att
-
-20 30 40 50s movies
-https://www.youtube.com/playlist?list=PLX9_I-EOJPdFuOjcI2zkmTck55homHEBE
-
-1950s movies
-https://www.youtube.com/playlist?list=PL8Nn95jd6kYVCzwyAIP_N6gz_OLRJUbjM
-
-great old movies
-https://www.youtube.com/playlist?list=PLeagipoZmyfnIxkk9qKN-ewkuDeI-JP0i
-
-1920 - 60s western ovies
-https://www.youtube.com/playlist?list=PLX9_I-EOJPdEtbHidfqDxKYnrFQvsYbzc
-
-turner classic movies
-https://www.youtube.com/playlist?list=PLjagMYJhaYIXItuPv6HoTBkkqwS_oKIxe
-
-classic 1950s movies
-https://www.youtube.com/playlist?list=PL18A29186EDC1F1BB
-
-classic 1940s movies
-https://www.youtube.com/playlist?list=PL305D41CC7F7B54B6
-
-classic musicals
-https://www.youtube.com/playlist?list=PL8Nn95jd6kYVouE2YjQT2oTwG7ZbAjak1
-
-classic 1960s movies
-https://www.youtube.com/playlist?list=PLC88802D61D5BB8ED
-
-1930s classic movies
-https://www.youtube.com/playlist?list=PLHjdjjnv5hQvEnTPL3J9DePR8ZhN2u-SE
-
