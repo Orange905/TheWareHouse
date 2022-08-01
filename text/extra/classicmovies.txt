@@ -152,6 +152,27 @@ icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/e
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="Name"
 
+name="Classic Monster Movies"
+section="false"
+search="false"
+subid="false"
+playlistid="PLP2yxOqBkeWmeXx2XPHAf5bpCweuk6iHU"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
+fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
+description="Name"
+
+name="Creature Feature Movies"
+section="false"
+search="false"
+subid="false"
+playlistid="PLmxprPgGGRhl4MiSyRBkAI7pnxhLgArGV"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
+fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
+description="Name"
 
 
 
