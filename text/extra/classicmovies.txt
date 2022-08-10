@@ -20,6 +20,17 @@ icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/e
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="Name"
 
+name="Vintage Monster Movies"
+section="false"
+search="false"
+subid="false"
+playlistid="PLv7MWTL-Arz7A-9awtVftFFtwmRA_bB06"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
+fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
+description="Name"
+
 name="Creature Feature Movies"
 section="false"
 search="false"
