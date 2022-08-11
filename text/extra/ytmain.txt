@@ -63,5 +63,3 @@ videoid="false"
 icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="Youtube Free Movies"
-PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx
-PL8zlx4BqIHTg-WC4vBVwLcRalCmvX7XVe
