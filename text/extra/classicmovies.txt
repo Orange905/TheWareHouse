@@ -9,7 +9,7 @@ icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/e
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="NAME"
 
-name="[COLORyellow]For more Movies, Right mouse click / Ctrl C[/COLOR]"
+name="[COLORyellow]For more Movies, right mouse click / press C[/COLOR]"
 section="false"
 search="false"
 subid="false"
@@ -481,3 +481,92 @@ videoid="false"
 icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
 fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
 description="NAME"
+
+name="LGBTQ Movies 1"
+section="false"
+search="false"
+subid="false"
+playlistid="PLHPTxTxtC0iafJDkeLSP4AK1YRXwSiDih"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
+fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
+description="NAME"
+
+name="LGBTQ Movies 2"
+section="false"
+search="false"
+subid="false"
+playlistid="PLdSIrVw3LJSMnsjp4Iu7-8iz4zwRBLMLH"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
+fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
+description="NAME"
+
+name="Martial Arts 1"
+section="false"
+search="false"
+subid="false"
+playlistid="XXX"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
+fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
+description="NAME"
+
+name="Martial Arts 2"
+section="false"
+search="false"
+subid="false"
+playlistid="PLaqqkvidbRq3uK9z7ppPbj5WYTWWLqYun"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
+fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
+description="NAME"
+
+name="Martial Arts 3"
+section="false"
+search="false"
+subid="false"
+playlistid="PLH6kU1Y5Hyt4roJa8ndAXJTSxjuV8SMnp"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
+fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
+description="NAME"
+
+name="Martial Arts 4"
+section="false"
+search="false"
+subid="false"
+playlistid="PLTl2qgv-gqkMQQ3hFxK6WEF7SILYx56Sc"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
+fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
+description="NAME"
+
+name="Martial Arts 5"
+section="false"
+search="false"
+subid="false"
+playlistid="PLD77PSkRdT4JXKjFWGgH2eZkhMWTp5geo"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/icon.png"
+fanart="https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/extra/fanart.jpg"
+description="NAME"
+
+LQBTQ - PLHPTxTxtC0iafJDkeLSP4AK1YRXwSiDih
+		PLdSIrVw3LJSMnsjp4Iu7-8iz4zwRBLMLH
+		
+MARTIAL ARTS / KUNG FU - PLFh5uDG4fBtEbALeEp0z_ft4Ie5vKkgM6
+							PLrW6uXtV2MLwh4gEr2yOqBGd2Nvb_PrsF
+							PL_x9TOitnF1aIsuqAXzSA_S7VSyfynpqk
+							PLaqqkvidbRq3uK9z7ppPbj5WYTWWLqYun
+							PLH6kU1Y5Hyt4roJa8ndAXJTSxjuV8SMnp
+							PLTl2qgv-gqkMQQ3hFxK6WEF7SILYx56Sc
+							PLD77PSkRdT4JXKjFWGgH2eZkhMWTp5geo
+		
