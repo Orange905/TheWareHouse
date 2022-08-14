@@ -1,4 +1,4 @@
-name="The New Adventures of Sherlock Holmes"
+name="Sherlock Holmes"
 section="false"
 search="false"
 subid="sherlock"
